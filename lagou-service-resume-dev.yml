@@ -1,0 +1,4 @@
+mysql:
+  url: jdbc:mysql://192.168.80.11:3307/springcloud?useUnicode=true&characterEncoding=utf8
+lagou:
+  message: hello lagou,100
